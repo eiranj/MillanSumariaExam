@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">examlayout</string>
+    <string name="app_title">Delicacies of Bacolod</string>
+    <string name="app_title2">City of Smiles</string>
+    <string name="food1">INASAL</string>
+    <string name="food2">CANSI</string>
+    <string name="food3">NAPOLEONES</string>
+    <string name="food4">PIAYA</string>
+
+
+    <string name="inasaldesc1">Name of Restaurant: Aida\'s Manokan</string>
+    <string name="inasaldesc2">Location: Fr.M Ferrero St, Bacolod, Negros Occidental 6100 Philippines</string>
+    <string name="inasaldesc3">Description: Chicken Inasal is a famous barbecue dish from the Visayan islands, particularly the Negros and Iloilo areas. \n The meat is marinated in a mixture of calamansi, pepper, vinegar and annato, and then grilled over hot coals, while still being basted with the marinade.</string>
+
+
+    <string name="cansidesc1">Name of Restaurant: Eron\'s Cansi House</string>
+    <string name="cansidesc2">Location: Fr.M Ferrero St, Bacolod, Negros Occidental 6100 Philippines</string>
+    <string name="cansidesc3">Description: Cansi or kansi is a Filipino beef soup originating from Bacolod which is spread across the rest of the Western Visayas region. It is made with beef shank and bone marrow boiled until gelatinous. It is uniquely slightly soured with fruits like batuan. Cansi is usually cooked with unripe jackfruit, lemongrass, tomatoes, garlic, onions, fish sauce, and labuyo peppers.</string>
+
+    <string name="napoleonesdesc1">Name of restaurant: Roli\'s Bakeshop</string>
+    <string name="napoleonesdesc2">Location: La Salle Ave 6100 Bacolod City Western Visayas</string>
+    <string name="napoleonesdesc3">Description: Napoleones is a dessert native to Bacolod City. This popular puff pastry is a favorite of both locals and tourists alike, and however cliché-ish it may sound, it is absolute heaven with every bite.</string>
+
+    <string name="piayadesc1">Name of Restaurant: BongBong\'s Pasalubong</string>
+    <string name="piayadesc2">Location: Alijis Rd, Bacolod, 6100 Negros Occidental, Philippines</string>
+    <string name="piayadesc3">Description: A piaya is a muscovado-filled unleavened flatbread from the Philippines especially common in Negros Occidental where it is a popular delicacy. It is made by filling dough with a mixture of muscovado and water. The filled dough is then flattened with a rolling pin, sprinkled with sesame seeds and baked on a griddle.</string>
+
+
+</resources>
